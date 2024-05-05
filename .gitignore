@@ -1,0 +1,17 @@
+.env
+.idea/
+*.pyc
+.idea
+venv/*
+*.sqlite3
+apps/*/migrations/__pycache__/
+/__pycache__/
+/*.pyc
+/__pycache__/*.pyc
+__pycache__/
+static/admin/*
+sqlite3.db
+/media/
+*.log
+db.sqlite3
+static/**
